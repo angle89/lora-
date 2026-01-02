@@ -1,3 +1,7 @@
+
+obsidian://open?vault=Obsidian%20Vault&file=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%2F%E5%BE%AE%E8%B0%83%E6%8A%80%E6%9C%AF%2Flora%20%E5%BE%AE%E8%B0%83
+
+
 参考文章：https://zhuanlan.zhihu.com/p/636215898
  https://blog.csdn.net/m0_59164520/article/details/145322617
 
